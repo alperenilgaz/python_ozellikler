@@ -8,3 +8,4 @@ ayrılacak ve her bir karakter ayrı birer string olarak davranılarak ekrana ba
 **pop(çıkarma) metodu** = Bu metod, içine değer vermezsek listenin son indeksindeki elemanı, değer verirsek verdiğimiz değere karşılık gelen      indeksteki elemanı listeden atar ve attığı elemanı ekrana basar.
 **sort(çeşit) metodu** = sort metodu listenin elemanlarını sıralamamızı sağlar.
 **count(saymak)** =  count metoduyla içine verdiğimiz değerin demette kaç defa geçtiğini bulabiliriz.
+**index** = index metoduyla içine verdiğimiz elemanın hangi indekste olduğunu bulabiliriz.
