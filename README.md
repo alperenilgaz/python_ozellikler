@@ -9,3 +9,6 @@ ayrılacak ve her bir karakter ayrı birer string olarak davranılarak ekrana ba
 **sort(çeşit) metodu** = sort metodu listenin elemanlarını sıralamamızı sağlar.
 **count(saymak)** =  count metoduyla içine verdiğimiz değerin demette kaç defa geçtiğini bulabiliriz.
 **index** = index metoduyla içine verdiğimiz elemanın hangi indekste olduğunu bulabiliriz.
+**values() metodu** = sözlüğün değerlerini(value) bir liste olarak döner.
+**keys() metodu** = sözlüğün anahtarlarını(key) bir liste olarak döner
+**items() metodu** = sözlüğün anahtar ve değerlerini bir liste içinde demet olarak döner.
